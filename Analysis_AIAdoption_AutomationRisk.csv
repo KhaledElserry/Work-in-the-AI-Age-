@@ -1,0 +1,29 @@
+Job_Title,Industry,AI Adoption Level,AI Adoption Score,Automation Risk,Automation Risk Score,Required_Skills,Salary (USD),Job Growth Projection,Job Growth Score,,,,,,                        Equivalencies,,,,
+Cybersecurity Analyst,Retail,High,3,High,3,Cybersecurity,"$75,862.86",Growth,3,,,,,,AI Adoption Level,Score,,,
+AI Researcher,Energy,Low,1,High,3,Machine Learning,"$71,211.88",Growth,3,,,,,,High,3,,,
+AI Researcher,Retail,Medium,2,High,3,Data Analysis,"$71,374.65",Stable,2,,,,,,Medium,2,,,
+AI Researcher,Telecommunications,High,3,High,3,Sales,"$103,952.47",Decline,1,,,,,,Low,1,,,
+AI Researcher,Transportation,High,3,High,3,JavaScript,"$89,252.52",Decline,1,,,,,,Automation Risk,Score,,,
+UX Designer,Entertainment,High,3,High,3,Project Management,"$89,145.92",Decline,1,,,,,,High,3,,,
+Software Engineer,Finance,High,3,High,3,Project Management,"$85,332.65",Decline,1,,,,,,Medium,2,,,
+AI Researcher,Manufacturing,Medium,2,High,3,Marketing,"$99,743.29",Decline,1,,,,,,Low,1,,,
+AI Researcher,Manufacturing,Low,1,High,3,JavaScript,"$104,107.30",Decline,1,,,,,,Job Growth Projection,Score,,,
+UX Designer,Manufacturing,High,3,Medium,2,Project Management,"$101,648.96",Growth,3,,,,,,Growth,3,,,
+AI Researcher,Transportation,High,3,Medium,2,Python,"$73,151.99",Growth,3,,,,,,Stable,2,,,
+Software Engineer,Finance,High,3,Medium,2,UX/UI Design,"$56,076.42",Growth,3,,,,,,Decline,1,,,
+UX Designer,Education,Medium,2,Medium,2,Cybersecurity,"$102,825.01",Growth,3,,,,,,,,,,
+AI Researcher,Education,Low,1,Medium,2,Cybersecurity,"$119,961.89",Growth,3,,Select Job Position:,,,,,,,,
+AI Researcher,Technology,Low,1,Medium,2,Python,"$85,901.52",Growth,3,,AI Researcher,,,,,,,,
+Data Scientist,Technology,Low,1,Medium,2,UX/UI Design,"$47,666.72",Growth,3,,Industry,AI Adoption Level,AI Adoption Score,Automation Risk,Automation Risk Score,Required Skills,Salary (USD),Job Growth Projection,Job Growth Score
+UX Designer,Retail,Medium,2,Medium,2,Cybersecurity,"$87,252.92",Stable,2,,Energy,Low,1,High,3,Machine Learning,"$71,211.88",Growth,3
+Data Scientist,Telecommunications,Low,1,Medium,2,Data Analysis,"$88,942.08",Decline,1,,Retail,Medium,2,High,3,Data Analysis,"$71,374.65",Stable,2
+UX Designer,Finance,Low,1,Medium,2,Cybersecurity,"$41,396.16",Decline,1,,Telecommunications,High,3,High,3,Sales,"$103,952.47",Decline,1
+Data Scientist,Education,High,3,Low,1,Project Management,"$90,129.59",Growth,3,,Transportation,High,3,High,3,JavaScript,"$89,252.52",Decline,1
+Cybersecurity Analyst,Telecommunications,High,3,Low,1,Data Analysis,"$47,132.65",Growth,3,,Manufacturing,Medium,2,High,3,Marketing,"$99,743.29",Decline,1
+Data Scientist,Transportation,Medium,2,Low,1,Data Analysis,"$119,717.37",Growth,3,,Manufacturing,Low,1,High,3,JavaScript,"$104,107.30",Decline,1
+Cybersecurity Analyst,Healthcare,High,3,Low,1,JavaScript,"$135,566.66",Stable,2,,Transportation,High,3,Medium,2,Python,"$73,151.99",Growth,3
+Data Scientist,Education,High,3,Low,1,Data Analysis,"$105,370.34",Stable,2,,Education,Low,1,Medium,2,Cybersecurity,"$119,961.89",Growth,3
+Software Engineer,Transportation,Low,1,Low,1,JavaScript,"$81,160.64",Stable,2,,Technology,Low,1,Medium,2,Python,"$85,901.52",Growth,3
+Data Scientist,Education,Low,1,Low,1,Marketing,"$74,767.08",Stable,2,,Energy,Medium,2,Low,1,Data Analysis,"$109,264.90",Decline,1
+AI Researcher,Energy,Medium,2,Low,1,Data Analysis,"$109,264.90",Decline,1,,,,,,,,,,
+Cybersecurity Analyst,Energy,Low,1,Low,1,Communication,"$102,999.23",Decline,1,,,,,,,,,,

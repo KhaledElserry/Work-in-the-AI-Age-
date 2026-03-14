@@ -1,0 +1,501 @@
+Age_Group,Education_Level,Profession,Industry,AI_Exposure_Level,Uses_AI_At_Work,Job_Replacement_Fear_Level,Perceived_AI_Threat,Actual_Job_Automation_Risk,Skill_Upgrade_Effort,Confidence_In_Career_Future,Belief_AI_Creates_New_Jobs,Willingness_To_Reskill
+35-44,Postgraduate,Other,Healthcare,High,Yes,4,Moderate,Medium,Occasional,3,No,Low
+45+,High School,Student,Finance,Low,Yes,5,Moderate,High,Regular,3,Unsure,High
+18-24,High School,Student,Healthcare,High,Yes,5,Moderate,Medium,Occasional,2,Yes,Medium
+35-44,PhD,Student,Tech,Low,No,5,High,Low,None,1,Yes,High
+35-44,Postgraduate,Manager,Healthcare,Medium,Yes,2,Low,High,Regular,1,Unsure,Medium
+45+,High School,Freelancer,Healthcare,Low,Yes,3,High,Medium,Regular,5,Unsure,Low
+18-24,PhD,Manager,Education,High,No,5,Moderate,Low,None,3,Unsure,High
+18-24,Postgraduate,Freelancer,Healthcare,High,No,5,High,Medium,Regular,1,No,Low
+35-44,PhD,Manager,Healthcare,High,No,2,Low,High,Occasional,1,Yes,Medium
+25-34,Undergraduate,Manager,Manufacturing,Medium,Yes,2,Low,High,Occasional,4,Unsure,Medium
+35-44,High School,Other,Tech,Medium,Yes,5,Moderate,Low,None,4,No,Medium
+35-44,Undergraduate,Non-IT,Education,High,No,1,Moderate,Low,Occasional,1,Yes,Low
+35-44,Postgraduate,Manager,Manufacturing,Low,No,5,High,Low,None,5,No,Medium
+35-44,Undergraduate,Other,Marketing,Medium,No,5,Moderate,Medium,None,1,Yes,Low
+45+,Undergraduate,IT,Tech,High,No,2,Moderate,Medium,Occasional,2,No,High
+18-24,Postgraduate,Non-IT,Tech,High,No,2,Low,Medium,None,3,Yes,Medium
+45+,PhD,Manager,Marketing,Medium,No,5,Moderate,Low,Occasional,5,Yes,Medium
+45+,Undergraduate,Student,Healthcare,Medium,Yes,5,Moderate,High,Regular,2,No,Medium
+45+,PhD,IT,Manufacturing,Medium,Yes,5,Low,High,Regular,5,Unsure,High
+35-44,Undergraduate,IT,Finance,Low,Yes,2,Low,Medium,None,2,Yes,Medium
+25-34,PhD,Other,Education,Low,No,5,High,Medium,Occasional,3,Unsure,Low
+18-24,Postgraduate,IT,Finance,High,No,5,Moderate,High,Occasional,3,No,Low
+25-34,Undergraduate,Non-IT,Marketing,Medium,No,4,Low,High,Regular,4,Unsure,Medium
+45+,Postgraduate,Manager,Tech,Low,No,1,High,Medium,Regular,2,Unsure,Medium
+45+,Undergraduate,Manager,Tech,Medium,No,3,High,Medium,Occasional,4,Unsure,High
+25-34,Postgraduate,Student,Education,High,No,1,Moderate,High,None,2,Unsure,High
+25-34,Postgraduate,Other,Tech,Low,Yes,4,Moderate,Low,Regular,4,Unsure,High
+25-34,Undergraduate,Student,Tech,Low,Yes,3,High,Medium,None,3,Yes,Medium
+45+,Undergraduate,IT,Education,Low,No,5,Low,High,None,5,Yes,High
+45+,Undergraduate,Student,Manufacturing,High,Yes,4,High,High,Regular,4,Yes,High
+18-24,High School,Non-IT,Manufacturing,Medium,No,5,Moderate,High,None,2,No,Low
+18-24,PhD,Manager,Education,Low,Yes,2,Low,High,None,2,Unsure,High
+45+,High School,IT,Marketing,High,No,4,Low,Low,Occasional,3,Yes,Low
+25-34,High School,Student,Tech,Medium,No,2,High,High,None,2,No,Low
+25-34,Postgraduate,Other,Tech,High,Yes,4,Moderate,Medium,Occasional,1,Yes,High
+18-24,Undergraduate,Non-IT,Marketing,Medium,Yes,4,High,Low,Regular,5,Yes,Low
+45+,PhD,Non-IT,Manufacturing,High,No,2,High,High,Regular,4,Unsure,Medium
+18-24,Postgraduate,Student,Healthcare,Medium,No,3,High,Low,Occasional,5,No,Medium
+18-24,High School,Manager,Healthcare,Low,Yes,1,Low,Medium,Regular,3,Unsure,High
+35-44,Undergraduate,Student,Healthcare,Medium,Yes,5,Low,High,None,4,Unsure,Medium
+35-44,Postgraduate,IT,Manufacturing,High,No,4,Moderate,Medium,None,4,Yes,Low
+35-44,Undergraduate,Student,Manufacturing,High,Yes,5,Moderate,High,None,1,Unsure,Medium
+25-34,Postgraduate,Non-IT,Marketing,Medium,No,2,High,High,Regular,3,No,High
+45+,Undergraduate,Student,Tech,Low,No,5,High,High,None,2,Unsure,High
+45+,High School,Manager,Marketing,Low,No,2,High,High,Regular,1,Unsure,Low
+45+,PhD,Other,Marketing,Medium,No,5,Moderate,High,None,1,Unsure,High
+45+,High School,Freelancer,Manufacturing,Medium,Yes,1,Low,Low,Occasional,5,Yes,Medium
+35-44,PhD,Student,Healthcare,High,Yes,1,Low,High,Regular,5,No,High
+25-34,Undergraduate,Manager,Finance,Low,Yes,1,High,High,Regular,5,Yes,Low
+25-34,Postgraduate,Manager,Tech,Medium,Yes,1,High,Low,None,1,Yes,High
+35-44,High School,Other,Manufacturing,Low,Yes,1,High,Low,Regular,2,Yes,Medium
+25-34,PhD,Non-IT,Healthcare,Medium,Yes,1,High,Low,Regular,4,Yes,Low
+35-44,High School,Manager,Finance,Medium,Yes,2,Moderate,Low,Occasional,5,Yes,Medium
+45+,PhD,Manager,Finance,Low,No,4,Low,Low,Occasional,2,No,Low
+35-44,High School,Manager,Manufacturing,Medium,Yes,5,High,Low,None,3,Unsure,High
+45+,PhD,Manager,Education,Medium,Yes,1,Moderate,High,Occasional,5,Yes,Low
+45+,PhD,IT,Tech,High,No,2,High,High,None,4,Yes,Low
+18-24,Undergraduate,IT,Finance,Medium,Yes,2,High,Medium,None,3,No,High
+35-44,PhD,Non-IT,Manufacturing,Medium,Yes,2,Low,High,None,3,No,Medium
+18-24,Undergraduate,Student,Manufacturing,Medium,No,4,High,High,Regular,4,Unsure,High
+35-44,PhD,Manager,Healthcare,High,Yes,5,Low,Low,Occasional,5,No,Low
+35-44,Postgraduate,Other,Education,Low,Yes,4,Low,Low,None,1,Unsure,High
+18-24,Postgraduate,Student,Tech,High,Yes,3,Low,High,Occasional,4,Yes,Low
+18-24,Postgraduate,Other,Marketing,High,No,2,Moderate,Medium,None,4,Yes,High
+35-44,PhD,Student,Healthcare,Low,Yes,3,Moderate,Low,Occasional,4,Unsure,High
+25-34,Undergraduate,Non-IT,Finance,High,Yes,1,Low,High,Occasional,3,No,Medium
+45+,Undergraduate,Manager,Finance,Low,No,1,High,High,None,2,Unsure,Low
+18-24,PhD,Manager,Healthcare,High,Yes,4,Low,Medium,Regular,1,No,Medium
+45+,Postgraduate,Freelancer,Manufacturing,Low,No,5,High,Medium,Occasional,5,Yes,Low
+25-34,Postgraduate,Other,Finance,Medium,No,3,Low,Low,Regular,5,No,High
+25-34,Undergraduate,Student,Education,High,Yes,5,High,Medium,Regular,2,Unsure,Low
+25-34,Postgraduate,Student,Tech,High,No,4,Moderate,High,None,4,Unsure,Medium
+18-24,High School,IT,Education,High,No,1,High,High,None,1,Yes,Medium
+25-34,Undergraduate,Freelancer,Finance,High,Yes,5,Low,Medium,None,5,No,Medium
+18-24,Postgraduate,IT,Marketing,Medium,No,5,Moderate,Medium,Occasional,5,No,Low
+25-34,Undergraduate,IT,Tech,High,No,1,High,Medium,None,4,No,Medium
+45+,High School,IT,Tech,Medium,Yes,3,High,Medium,None,2,Yes,Medium
+45+,Undergraduate,Other,Healthcare,Medium,Yes,1,High,Low,Occasional,1,No,Medium
+35-44,Undergraduate,Other,Healthcare,Medium,Yes,5,High,Medium,Occasional,2,Unsure,High
+45+,Undergraduate,Non-IT,Marketing,Medium,No,3,High,Low,None,2,No,High
+35-44,Undergraduate,Non-IT,Manufacturing,Low,Yes,3,Moderate,High,None,1,Yes,Low
+45+,High School,IT,Tech,Low,No,1,Moderate,Medium,None,1,No,Low
+18-24,PhD,Freelancer,Marketing,High,No,5,Moderate,Low,None,5,No,Medium
+45+,Undergraduate,Student,Healthcare,Low,No,4,Moderate,Medium,Regular,5,Unsure,High
+35-44,Undergraduate,Other,Healthcare,Low,No,5,Low,High,Regular,1,No,Medium
+35-44,Postgraduate,Freelancer,Tech,High,No,2,Moderate,High,None,3,Unsure,Medium
+25-34,Undergraduate,Manager,Education,High,No,4,High,High,Regular,5,Unsure,High
+18-24,Postgraduate,Other,Finance,High,No,3,High,Medium,Occasional,3,Yes,High
+45+,PhD,Other,Healthcare,Low,Yes,4,Moderate,Medium,Regular,1,Unsure,High
+25-34,High School,Non-IT,Manufacturing,Low,Yes,3,High,Low,Regular,5,Unsure,Low
+45+,High School,Student,Manufacturing,High,No,3,Moderate,High,None,2,Yes,Low
+45+,PhD,Student,Healthcare,Medium,No,4,High,Medium,Regular,1,Unsure,Medium
+25-34,High School,Manager,Education,High,Yes,3,Low,High,Regular,4,Yes,Low
+25-34,PhD,Manager,Education,Medium,No,3,Low,High,Regular,3,No,High
+25-34,PhD,Other,Marketing,Medium,Yes,2,Moderate,Low,Regular,1,Yes,High
+25-34,PhD,IT,Manufacturing,High,Yes,5,Moderate,Low,Occasional,1,Unsure,Low
+25-34,High School,Non-IT,Marketing,High,Yes,5,Moderate,Low,None,5,Yes,Medium
+45+,Postgraduate,Non-IT,Manufacturing,High,No,2,High,Low,None,5,Unsure,Medium
+25-34,PhD,Other,Finance,Low,No,4,Moderate,High,Occasional,5,No,Low
+18-24,Undergraduate,Freelancer,Finance,Medium,Yes,1,Low,Low,Regular,4,Yes,Medium
+35-44,High School,IT,Tech,Low,Yes,1,High,Low,Occasional,5,No,Medium
+25-34,PhD,Other,Marketing,Low,Yes,1,Moderate,Low,Regular,1,Unsure,Medium
+25-34,PhD,IT,Healthcare,High,Yes,2,High,Low,Occasional,5,Unsure,High
+45+,Undergraduate,IT,Marketing,Low,Yes,2,High,High,None,2,No,High
+25-34,Postgraduate,IT,Healthcare,High,No,3,Moderate,Low,None,5,Yes,Low
+25-34,Postgraduate,Other,Education,Medium,Yes,1,High,High,None,4,Yes,High
+25-34,Postgraduate,Non-IT,Marketing,High,No,4,Low,Medium,Regular,2,Unsure,Medium
+45+,PhD,Non-IT,Education,Low,Yes,4,Low,High,Regular,1,No,High
+25-34,PhD,IT,Finance,Low,No,1,High,High,Occasional,1,No,Low
+35-44,PhD,Freelancer,Finance,High,No,1,Moderate,Low,Occasional,3,Yes,High
+45+,High School,Student,Tech,High,No,1,High,Medium,None,2,Yes,Medium
+35-44,Undergraduate,Other,Marketing,Low,No,2,Low,Medium,Regular,3,Yes,Medium
+45+,PhD,Student,Education,Medium,No,2,High,Medium,Occasional,2,No,Low
+25-34,Undergraduate,Freelancer,Healthcare,Medium,No,2,High,Medium,Regular,2,Yes,High
+35-44,Undergraduate,Other,Finance,High,Yes,5,Low,High,Regular,4,Yes,High
+45+,Postgraduate,IT,Finance,Medium,No,4,High,Medium,None,3,Unsure,High
+18-24,High School,Non-IT,Healthcare,Low,Yes,4,High,High,None,4,Yes,Medium
+25-34,PhD,Student,Education,High,No,3,Moderate,High,Regular,2,Yes,Low
+45+,Postgraduate,Manager,Education,Low,No,2,Moderate,High,Regular,1,No,High
+18-24,Postgraduate,Manager,Marketing,Low,Yes,5,Low,Medium,Regular,2,No,Medium
+45+,PhD,Freelancer,Marketing,Medium,No,5,Low,Low,Regular,4,Unsure,Medium
+18-24,Undergraduate,IT,Manufacturing,High,Yes,4,Low,Low,None,3,Yes,Medium
+25-34,Postgraduate,Student,Manufacturing,High,Yes,2,Moderate,Medium,Occasional,3,Unsure,High
+35-44,Undergraduate,IT,Tech,Medium,Yes,3,Low,Low,None,4,No,High
+18-24,High School,Student,Finance,Low,Yes,2,Low,Low,Occasional,3,Unsure,High
+45+,Undergraduate,Freelancer,Marketing,Low,No,1,Low,High,Regular,5,No,High
+25-34,High School,Freelancer,Education,Low,No,2,Moderate,High,Occasional,1,Unsure,High
+18-24,Undergraduate,Manager,Healthcare,Low,Yes,1,High,Medium,None,1,Unsure,High
+45+,Postgraduate,IT,Education,High,No,1,Low,Medium,None,1,Yes,High
+45+,Postgraduate,Other,Finance,High,No,3,High,Low,Regular,3,Unsure,High
+45+,High School,Manager,Manufacturing,Medium,Yes,4,Low,High,None,3,Yes,High
+18-24,PhD,IT,Education,Medium,No,2,High,Medium,Regular,2,Yes,Medium
+18-24,High School,Manager,Tech,High,Yes,1,Moderate,Medium,None,2,Yes,High
+18-24,High School,Other,Finance,High,Yes,2,Moderate,Medium,None,1,Yes,Low
+35-44,Undergraduate,Non-IT,Manufacturing,Low,No,4,Low,Medium,Regular,5,Unsure,Medium
+18-24,Undergraduate,Non-IT,Healthcare,Low,No,4,High,Medium,Occasional,2,No,High
+18-24,High School,Non-IT,Manufacturing,Medium,No,5,Moderate,Medium,None,2,No,Low
+18-24,Postgraduate,Non-IT,Tech,High,Yes,4,Low,Low,Occasional,3,No,High
+35-44,Undergraduate,Student,Finance,Medium,Yes,3,Low,High,None,5,Unsure,Low
+18-24,PhD,Non-IT,Healthcare,High,No,1,Moderate,High,None,1,Yes,Low
+45+,Undergraduate,Other,Tech,Low,No,5,Moderate,Medium,None,2,No,Low
+18-24,Undergraduate,Freelancer,Manufacturing,Medium,No,3,Low,High,None,5,Unsure,Low
+45+,PhD,Freelancer,Tech,Medium,No,2,High,High,Occasional,5,Yes,Medium
+45+,High School,Student,Finance,High,Yes,1,High,High,Occasional,1,No,Medium
+45+,PhD,Non-IT,Marketing,Low,No,4,High,Medium,None,5,Yes,Low
+35-44,High School,Non-IT,Tech,Medium,Yes,1,Low,Medium,None,5,No,High
+35-44,High School,Non-IT,Tech,Low,Yes,2,Moderate,High,Occasional,5,No,Low
+35-44,High School,Manager,Manufacturing,Medium,No,5,Low,High,Regular,2,No,Medium
+18-24,PhD,IT,Manufacturing,Low,No,5,Moderate,Medium,Regular,1,Yes,High
+45+,High School,Manager,Healthcare,High,No,5,High,Low,Occasional,5,Unsure,Medium
+35-44,Postgraduate,IT,Manufacturing,Medium,Yes,4,High,High,None,5,Yes,Medium
+35-44,PhD,Non-IT,Education,Medium,No,3,Moderate,Low,None,2,No,High
+18-24,Postgraduate,Non-IT,Finance,Low,No,3,Moderate,High,Regular,1,Yes,Low
+35-44,High School,Manager,Finance,Low,Yes,1,Low,Low,Regular,3,Unsure,Low
+18-24,Undergraduate,Manager,Marketing,Medium,No,4,High,Low,Occasional,2,Yes,Low
+25-34,High School,IT,Marketing,High,Yes,5,Low,Low,Regular,1,Unsure,Low
+35-44,Postgraduate,Freelancer,Finance,Low,No,5,Low,Medium,Occasional,5,Unsure,High
+25-34,Postgraduate,IT,Marketing,Low,Yes,2,Low,Low,Regular,1,Yes,High
+18-24,PhD,Manager,Healthcare,Low,No,2,High,Low,Regular,1,No,High
+45+,Undergraduate,Other,Manufacturing,Medium,No,5,Low,Low,Regular,1,Unsure,Medium
+35-44,PhD,Manager,Finance,Medium,Yes,5,Low,High,None,3,Yes,High
+18-24,Postgraduate,Other,Marketing,Medium,Yes,4,Low,Low,None,1,Unsure,Low
+45+,High School,Student,Finance,Medium,No,3,Low,High,None,3,No,Medium
+45+,Undergraduate,Manager,Education,High,Yes,2,Low,Low,Regular,5,Yes,Low
+25-34,High School,Student,Tech,High,Yes,3,Low,Low,Occasional,3,Yes,Low
+18-24,High School,Freelancer,Manufacturing,Medium,Yes,4,High,Medium,Occasional,5,Yes,High
+45+,Undergraduate,IT,Finance,High,Yes,5,Low,High,Occasional,5,No,High
+35-44,PhD,Other,Tech,Low,No,3,Moderate,Low,Occasional,3,Unsure,Low
+35-44,High School,IT,Marketing,Low,No,5,Low,High,None,2,Yes,Low
+25-34,Postgraduate,Student,Tech,Low,Yes,5,Low,High,None,4,Unsure,Medium
+45+,High School,Other,Manufacturing,Medium,Yes,1,High,Medium,Regular,1,Unsure,High
+18-24,Undergraduate,IT,Finance,Low,Yes,3,High,Medium,Regular,4,No,Medium
+35-44,Undergraduate,Manager,Education,High,Yes,3,Moderate,Medium,Occasional,1,Yes,Medium
+45+,Undergraduate,Non-IT,Marketing,Medium,No,5,Moderate,Medium,None,1,Unsure,Medium
+45+,PhD,Student,Finance,High,No,4,High,Medium,Occasional,5,Yes,Low
+25-34,High School,IT,Manufacturing,Low,Yes,1,High,Medium,Regular,1,Yes,Medium
+35-44,PhD,Student,Marketing,Low,Yes,5,Low,Medium,Regular,1,No,Medium
+35-44,PhD,Student,Healthcare,Low,Yes,2,High,Medium,Occasional,3,Yes,Low
+18-24,Undergraduate,Other,Tech,Medium,No,2,Moderate,Low,Regular,4,Yes,High
+35-44,Undergraduate,Other,Manufacturing,High,Yes,1,Low,High,Occasional,3,Unsure,High
+18-24,PhD,Non-IT,Healthcare,Medium,No,4,Moderate,Medium,None,1,No,Medium
+35-44,High School,Manager,Finance,Medium,Yes,5,Low,Medium,Occasional,5,Yes,Low
+25-34,Postgraduate,Student,Education,Low,No,3,High,High,None,3,Unsure,High
+35-44,PhD,IT,Marketing,Medium,Yes,1,Moderate,Low,None,3,No,Medium
+18-24,High School,Freelancer,Tech,Medium,No,4,Low,High,Regular,2,No,Medium
+18-24,Undergraduate,Student,Marketing,Low,Yes,3,Low,High,Regular,1,Unsure,Low
+25-34,Undergraduate,Student,Finance,Medium,Yes,2,High,Medium,Regular,5,Unsure,Medium
+35-44,High School,Non-IT,Marketing,Low,Yes,2,High,High,Occasional,3,Unsure,High
+35-44,Postgraduate,Manager,Tech,Low,No,3,High,High,Occasional,3,Unsure,Low
+25-34,Undergraduate,Freelancer,Finance,Low,Yes,1,Moderate,Medium,Regular,5,Unsure,High
+35-44,Undergraduate,Other,Marketing,Low,No,2,Low,Medium,Occasional,1,Yes,High
+35-44,Undergraduate,Other,Education,Medium,No,5,High,Medium,Regular,2,Yes,High
+18-24,High School,IT,Manufacturing,Low,Yes,3,Moderate,Medium,Occasional,3,No,Medium
+35-44,PhD,Freelancer,Finance,Low,Yes,3,Moderate,High,None,2,Yes,Medium
+35-44,Undergraduate,Other,Manufacturing,Medium,Yes,2,Moderate,High,None,4,Yes,High
+25-34,PhD,IT,Finance,Medium,No,1,High,Low,Regular,1,Yes,High
+25-34,Postgraduate,Manager,Education,High,Yes,5,High,Low,Occasional,4,Unsure,Low
+45+,Undergraduate,IT,Manufacturing,Medium,No,1,Low,High,Occasional,4,No,Low
+18-24,Undergraduate,Other,Healthcare,Medium,No,4,Low,Low,None,4,No,Medium
+35-44,Postgraduate,Non-IT,Tech,High,Yes,4,High,High,None,1,No,Medium
+35-44,Undergraduate,Non-IT,Healthcare,Medium,Yes,2,Moderate,Low,Regular,1,No,Low
+45+,PhD,Non-IT,Marketing,Medium,Yes,2,Moderate,Medium,None,5,Yes,High
+35-44,High School,Other,Education,Medium,Yes,2,Moderate,Low,Regular,2,Yes,Medium
+18-24,PhD,Non-IT,Healthcare,Medium,Yes,4,Low,Medium,None,2,Unsure,High
+45+,High School,Freelancer,Finance,High,Yes,1,Moderate,Medium,None,5,No,Low
+18-24,High School,Manager,Marketing,Medium,No,1,Low,Medium,Occasional,5,Yes,Medium
+45+,PhD,IT,Marketing,Medium,No,2,Low,Medium,None,4,Yes,Medium
+45+,PhD,IT,Healthcare,High,No,5,Moderate,Low,None,5,Unsure,Low
+25-34,PhD,Other,Healthcare,Low,Yes,1,Moderate,High,Regular,3,Unsure,Medium
+18-24,PhD,Non-IT,Education,High,No,4,High,Medium,None,2,Unsure,Low
+35-44,Postgraduate,Non-IT,Tech,Low,No,3,High,Low,Regular,5,Yes,Medium
+35-44,Undergraduate,Student,Healthcare,High,No,3,Moderate,Medium,None,3,Yes,Low
+18-24,High School,Manager,Healthcare,High,No,3,Low,Low,None,3,Unsure,Medium
+35-44,PhD,Freelancer,Manufacturing,Medium,No,5,Low,Low,Regular,3,No,High
+35-44,PhD,IT,Finance,Low,Yes,2,Low,Low,Occasional,3,Unsure,High
+18-24,PhD,Student,Manufacturing,Medium,Yes,4,Low,High,Regular,4,Unsure,High
+45+,Postgraduate,Student,Manufacturing,Low,No,5,Low,Low,Regular,3,Unsure,Medium
+18-24,PhD,Other,Marketing,High,No,4,High,Low,Regular,4,Unsure,Medium
+45+,PhD,IT,Tech,High,No,4,Moderate,High,Occasional,4,Yes,High
+35-44,PhD,Other,Finance,Low,Yes,2,High,High,None,3,No,High
+35-44,Undergraduate,Freelancer,Education,Medium,Yes,3,Low,Low,Regular,2,Unsure,Low
+35-44,Postgraduate,Student,Education,Medium,No,2,Low,High,Regular,3,No,Low
+25-34,PhD,Student,Healthcare,Medium,Yes,5,Low,Medium,Occasional,3,No,Low
+45+,High School,Manager,Healthcare,Medium,Yes,5,Low,Medium,Regular,3,No,High
+25-34,High School,Freelancer,Education,High,No,5,Moderate,High,None,2,Unsure,High
+25-34,High School,Student,Healthcare,High,Yes,2,Low,High,Occasional,1,Yes,High
+18-24,Postgraduate,Freelancer,Tech,High,Yes,4,Moderate,Low,None,1,Unsure,Low
+25-34,Postgraduate,IT,Manufacturing,High,No,4,Low,High,None,4,No,Medium
+18-24,High School,Non-IT,Healthcare,High,Yes,1,Moderate,Low,Occasional,4,No,High
+18-24,PhD,Student,Marketing,Medium,Yes,5,High,Medium,Regular,2,Yes,Medium
+25-34,Postgraduate,Manager,Healthcare,Medium,No,4,Low,High,None,5,Unsure,Medium
+45+,High School,IT,Finance,Medium,Yes,1,Moderate,Low,None,1,No,Medium
+45+,High School,Freelancer,Tech,Medium,Yes,4,High,Low,None,4,Yes,Low
+45+,PhD,Other,Finance,High,No,5,Low,Medium,None,1,No,Medium
+45+,Undergraduate,IT,Finance,High,No,3,Low,High,Occasional,2,Yes,High
+45+,Postgraduate,Student,Marketing,High,No,5,Low,Medium,Occasional,2,Yes,Low
+25-34,PhD,Freelancer,Tech,Low,Yes,2,Moderate,Low,None,5,Unsure,High
+25-34,High School,Non-IT,Tech,Medium,No,4,Moderate,Low,Regular,5,No,High
+35-44,High School,IT,Tech,Medium,Yes,4,High,High,None,2,Unsure,Low
+45+,PhD,Student,Tech,High,No,2,Moderate,Low,Regular,4,No,High
+25-34,Postgraduate,Manager,Tech,Medium,Yes,2,Moderate,High,None,1,Unsure,High
+35-44,Undergraduate,Other,Marketing,Medium,No,3,Low,Medium,Regular,3,No,Low
+45+,Undergraduate,Freelancer,Healthcare,High,No,4,Low,High,None,5,Unsure,High
+18-24,High School,IT,Finance,Low,No,4,Low,High,Regular,3,Yes,Medium
+35-44,Postgraduate,IT,Tech,Low,No,3,Low,Low,None,4,No,High
+25-34,Undergraduate,Non-IT,Healthcare,Low,Yes,1,Low,Low,None,5,No,Medium
+18-24,Postgraduate,Non-IT,Healthcare,High,No,3,Low,High,Regular,3,Yes,High
+18-24,Postgraduate,Manager,Finance,Medium,No,5,Low,Low,Occasional,4,Unsure,Low
+18-24,High School,Other,Marketing,High,Yes,4,High,Low,Regular,1,No,Low
+35-44,Undergraduate,Manager,Education,High,No,2,High,Low,Occasional,4,No,High
+25-34,PhD,Student,Education,Medium,Yes,5,High,High,None,5,Unsure,Low
+18-24,High School,Student,Healthcare,Low,No,4,High,Low,Regular,2,Yes,High
+45+,Undergraduate,Manager,Manufacturing,Low,No,3,Low,High,Regular,1,Unsure,Low
+18-24,Undergraduate,Other,Manufacturing,High,No,5,High,Low,Regular,3,Unsure,Medium
+18-24,Undergraduate,Manager,Finance,Low,Yes,4,Low,Medium,Occasional,5,Unsure,High
+35-44,Undergraduate,Other,Education,High,No,1,High,Low,Occasional,2,No,Medium
+35-44,Undergraduate,Other,Healthcare,High,No,1,Moderate,Low,None,4,Yes,Medium
+25-34,Postgraduate,Freelancer,Marketing,Medium,No,2,High,High,Occasional,2,Yes,High
+45+,High School,Other,Education,Medium,Yes,4,High,High,Occasional,5,Unsure,Medium
+35-44,Postgraduate,Non-IT,Healthcare,Medium,Yes,1,Low,Low,None,5,No,High
+18-24,PhD,Other,Healthcare,High,No,3,High,Medium,Regular,2,Unsure,Medium
+25-34,Undergraduate,Other,Tech,Medium,Yes,4,Moderate,Low,Regular,4,No,High
+18-24,High School,Other,Marketing,Low,No,3,Low,Low,None,2,No,High
+18-24,Undergraduate,Student,Tech,Low,No,3,Low,Medium,Regular,5,No,Low
+35-44,High School,Non-IT,Finance,High,No,1,High,High,Occasional,5,No,High
+25-34,Postgraduate,Non-IT,Tech,High,No,4,Low,Low,None,3,Yes,High
+45+,High School,Manager,Tech,Medium,No,5,Low,High,None,3,No,Medium
+45+,PhD,Freelancer,Education,High,No,1,Low,High,None,1,No,High
+35-44,PhD,Other,Manufacturing,High,No,1,Low,Medium,Regular,5,Unsure,Low
+35-44,High School,IT,Healthcare,Low,Yes,4,Low,Medium,None,3,Unsure,Medium
+25-34,High School,Freelancer,Marketing,Low,Yes,4,Low,High,None,2,Yes,Medium
+45+,High School,Freelancer,Tech,Medium,Yes,3,Moderate,Low,None,4,Unsure,Low
+45+,High School,Non-IT,Marketing,High,Yes,4,High,High,Regular,2,No,Medium
+45+,PhD,Freelancer,Manufacturing,High,Yes,3,Moderate,Low,Occasional,4,Unsure,Medium
+18-24,Undergraduate,Other,Manufacturing,Low,Yes,1,Low,Low,None,3,Yes,Medium
+45+,High School,Other,Tech,High,Yes,2,Low,Medium,Occasional,1,Unsure,Medium
+18-24,High School,Student,Finance,Low,No,5,High,Low,Regular,2,Unsure,Low
+25-34,PhD,Other,Tech,Medium,No,1,Moderate,Low,Regular,2,Yes,Low
+18-24,PhD,Other,Education,Low,No,4,High,High,Regular,2,Yes,Medium
+25-34,Postgraduate,Non-IT,Healthcare,High,No,5,Moderate,Medium,Regular,4,No,Medium
+45+,High School,Other,Finance,Medium,Yes,2,Low,Low,Occasional,3,Unsure,Low
+45+,Postgraduate,Student,Tech,Low,Yes,2,High,Low,None,2,No,Low
+25-34,PhD,IT,Marketing,Low,No,3,High,Medium,Regular,2,Unsure,Low
+35-44,PhD,Non-IT,Finance,Medium,No,5,Low,High,Regular,1,Unsure,Medium
+25-34,Undergraduate,IT,Finance,Medium,Yes,3,High,Medium,Occasional,1,No,Medium
+35-44,High School,Non-IT,Tech,Low,No,1,Moderate,Medium,Occasional,3,Unsure,High
+18-24,Postgraduate,Manager,Finance,High,No,5,Moderate,Low,Regular,3,Unsure,Low
+18-24,PhD,Freelancer,Marketing,Low,No,1,Moderate,Low,None,5,Unsure,Medium
+18-24,PhD,Manager,Manufacturing,Medium,No,3,Moderate,High,None,1,Yes,Low
+45+,Postgraduate,Other,Finance,Low,Yes,5,Low,Low,Regular,5,No,Medium
+18-24,Undergraduate,IT,Manufacturing,Medium,No,3,High,Low,Occasional,4,Yes,Low
+35-44,PhD,Other,Marketing,Medium,No,5,Moderate,Medium,Regular,5,No,Medium
+18-24,High School,Freelancer,Tech,High,Yes,3,Low,Low,Regular,2,No,High
+25-34,PhD,Non-IT,Healthcare,Medium,Yes,2,High,High,Occasional,5,Unsure,High
+25-34,High School,Freelancer,Finance,Medium,No,3,High,Medium,Regular,3,No,Low
+45+,Postgraduate,Student,Healthcare,High,Yes,2,Low,High,Regular,4,Yes,Medium
+25-34,High School,Freelancer,Marketing,Medium,No,3,Low,Medium,Regular,2,Yes,Medium
+35-44,Postgraduate,Student,Finance,High,No,5,Moderate,Low,Occasional,5,Yes,Low
+18-24,High School,Freelancer,Manufacturing,High,Yes,5,High,Medium,None,4,No,Medium
+45+,Postgraduate,Student,Education,Medium,No,5,High,Medium,None,4,Yes,Low
+18-24,High School,IT,Healthcare,Medium,No,4,Low,Low,Occasional,2,No,Medium
+18-24,Undergraduate,Other,Finance,Low,No,1,High,Low,None,5,Yes,Low
+35-44,High School,Other,Healthcare,High,No,5,Moderate,High,Regular,4,Yes,Medium
+25-34,High School,Manager,Finance,Low,Yes,2,High,High,None,4,No,Low
+25-34,Undergraduate,Other,Tech,Medium,Yes,5,Low,Low,Regular,1,Yes,Medium
+18-24,PhD,Non-IT,Manufacturing,Low,No,4,Low,Low,None,4,Unsure,High
+45+,PhD,Freelancer,Healthcare,High,Yes,2,Moderate,Low,Occasional,1,No,Medium
+25-34,High School,Manager,Education,Low,No,4,Moderate,Medium,None,5,No,Low
+45+,Undergraduate,Non-IT,Education,High,No,2,High,Medium,None,5,No,High
+25-34,High School,Non-IT,Marketing,Medium,No,3,High,Medium,None,5,Unsure,Medium
+45+,Postgraduate,Student,Finance,Medium,No,1,Low,Low,Occasional,3,No,High
+35-44,Postgraduate,Other,Healthcare,High,No,1,Moderate,High,None,5,Yes,Medium
+45+,High School,IT,Marketing,Medium,Yes,4,Moderate,Low,Occasional,4,Yes,High
+35-44,PhD,IT,Healthcare,Medium,No,1,Moderate,Medium,Regular,2,Yes,Low
+35-44,PhD,Manager,Finance,Medium,Yes,4,High,Medium,None,1,No,Medium
+45+,High School,IT,Education,Medium,Yes,4,Moderate,Low,Occasional,3,Yes,Medium
+35-44,High School,Freelancer,Tech,High,No,4,Low,Low,Occasional,5,No,Low
+18-24,Postgraduate,IT,Education,Low,No,1,Low,Medium,None,5,Yes,High
+35-44,PhD,Manager,Marketing,Low,No,4,High,Medium,Regular,2,Unsure,Low
+25-34,High School,IT,Manufacturing,Medium,No,1,High,Medium,Occasional,2,Unsure,Low
+45+,Postgraduate,Freelancer,Tech,Low,No,4,Moderate,Low,None,3,Unsure,High
+18-24,PhD,Student,Marketing,Low,Yes,5,High,Medium,Regular,1,Unsure,Low
+45+,Undergraduate,Manager,Finance,Medium,No,4,Low,Medium,Occasional,5,No,Medium
+25-34,Postgraduate,Student,Tech,Medium,No,2,Moderate,High,Occasional,3,Yes,Medium
+25-34,PhD,Student,Marketing,Low,Yes,4,Low,Low,Regular,4,Unsure,Medium
+25-34,PhD,Student,Finance,High,Yes,3,Moderate,High,Regular,4,No,Low
+35-44,Postgraduate,Non-IT,Education,Medium,No,4,High,High,None,3,Unsure,Medium
+35-44,Undergraduate,Other,Manufacturing,High,Yes,2,Moderate,Medium,None,5,Unsure,Medium
+45+,Postgraduate,Non-IT,Finance,Low,No,2,Moderate,Low,Occasional,3,No,Medium
+45+,PhD,Other,Healthcare,Medium,Yes,1,Low,Medium,Regular,5,No,Medium
+18-24,High School,Student,Finance,High,Yes,5,Low,Low,Regular,2,Yes,Medium
+18-24,High School,Manager,Finance,Medium,No,4,Moderate,High,Regular,3,Yes,Medium
+45+,Postgraduate,Other,Manufacturing,Low,Yes,1,High,Low,Occasional,5,Unsure,Low
+35-44,PhD,Freelancer,Healthcare,High,Yes,5,High,Medium,Regular,3,Unsure,Medium
+25-34,High School,Freelancer,Marketing,Low,Yes,4,Low,Medium,Regular,3,Yes,Medium
+45+,PhD,IT,Marketing,Low,Yes,3,High,Medium,Occasional,5,Yes,High
+18-24,Postgraduate,Other,Finance,Medium,Yes,4,Low,Low,None,5,No,Low
+35-44,High School,Manager,Healthcare,High,Yes,2,High,High,None,1,Yes,Low
+45+,PhD,Non-IT,Healthcare,Low,No,2,Moderate,High,Occasional,3,Yes,Low
+45+,High School,Student,Manufacturing,Low,No,3,Low,Low,Regular,4,Unsure,Low
+35-44,Postgraduate,IT,Education,High,Yes,1,Low,Medium,Occasional,3,Yes,Medium
+45+,PhD,Freelancer,Marketing,Low,No,5,Moderate,High,None,3,Unsure,Medium
+35-44,High School,Non-IT,Manufacturing,Low,No,4,Low,Medium,None,5,Yes,High
+25-34,Postgraduate,Non-IT,Tech,High,No,2,High,Low,Occasional,3,No,High
+35-44,High School,Student,Marketing,High,Yes,1,High,Medium,Occasional,3,Yes,Low
+35-44,High School,Other,Manufacturing,High,No,3,Low,High,None,4,Yes,High
+35-44,Undergraduate,Freelancer,Marketing,High,Yes,2,High,High,Occasional,5,Yes,High
+45+,Undergraduate,Manager,Education,Medium,No,3,Low,Medium,None,3,Unsure,Low
+45+,Postgraduate,Non-IT,Tech,High,Yes,4,Moderate,Low,Occasional,2,No,Low
+35-44,Undergraduate,Student,Education,Medium,Yes,5,Low,Medium,Occasional,1,Yes,High
+45+,Postgraduate,Manager,Tech,Medium,No,2,Moderate,Low,Occasional,4,Unsure,Medium
+18-24,Undergraduate,Other,Finance,Medium,No,2,High,Medium,None,3,No,High
+18-24,High School,Freelancer,Manufacturing,Low,Yes,4,Moderate,High,Occasional,2,Unsure,High
+45+,Postgraduate,Other,Tech,Medium,No,1,High,Low,None,3,Unsure,Medium
+45+,Postgraduate,Non-IT,Education,Medium,No,5,Low,Low,None,3,No,Medium
+35-44,High School,Manager,Marketing,Low,No,2,High,Low,Occasional,5,Yes,Low
+25-34,Postgraduate,Manager,Tech,Low,Yes,5,Low,High,Occasional,5,Unsure,Low
+45+,Postgraduate,Manager,Manufacturing,Low,Yes,2,Low,Medium,None,5,Unsure,High
+18-24,Undergraduate,Non-IT,Tech,High,No,5,Moderate,High,None,2,Yes,Medium
+35-44,Postgraduate,Non-IT,Healthcare,Low,No,3,Moderate,Low,Regular,3,Yes,Low
+45+,PhD,Other,Marketing,Low,No,2,Moderate,Medium,None,1,No,High
+18-24,High School,IT,Manufacturing,Medium,Yes,5,Moderate,High,Regular,4,No,Medium
+18-24,Undergraduate,Other,Manufacturing,Low,Yes,1,High,Low,Regular,5,No,High
+25-34,Undergraduate,Freelancer,Finance,High,No,3,High,Low,Regular,5,Yes,Low
+35-44,PhD,Student,Education,Low,No,3,High,High,Occasional,3,Unsure,Low
+35-44,High School,Manager,Finance,High,No,1,Low,High,Occasional,3,Unsure,Medium
+25-34,High School,IT,Manufacturing,Low,No,5,High,High,None,2,No,High
+25-34,Undergraduate,Student,Marketing,Low,No,4,High,Low,Regular,2,Yes,Medium
+35-44,Postgraduate,IT,Tech,Low,No,1,High,High,Occasional,5,Unsure,Low
+35-44,Undergraduate,Other,Tech,Low,Yes,5,Moderate,Low,Occasional,3,No,Low
+45+,High School,Non-IT,Marketing,High,No,1,High,High,Occasional,1,Unsure,High
+45+,PhD,Manager,Manufacturing,High,Yes,1,Low,Low,Occasional,4,Unsure,High
+25-34,Undergraduate,Other,Tech,Medium,No,2,Moderate,Low,Occasional,3,Yes,High
+45+,High School,Student,Tech,High,No,5,Low,Medium,Regular,3,Yes,Medium
+18-24,Undergraduate,Student,Tech,Low,Yes,4,High,High,Regular,2,Unsure,High
+45+,Postgraduate,Student,Education,Medium,Yes,2,Moderate,High,Regular,4,No,High
+45+,Undergraduate,Student,Education,Medium,Yes,1,Low,Low,Regular,5,Yes,Low
+18-24,Undergraduate,Student,Healthcare,Medium,Yes,1,High,Low,None,3,Unsure,Low
+25-34,High School,IT,Finance,Low,No,1,Low,Low,Regular,5,Yes,High
+18-24,High School,Other,Marketing,High,Yes,5,Low,Medium,Occasional,3,Yes,High
+45+,High School,Manager,Marketing,Low,No,5,Low,Medium,Regular,5,Yes,Low
+25-34,Undergraduate,Non-IT,Marketing,Medium,Yes,2,High,Low,None,4,Unsure,High
+45+,Postgraduate,Non-IT,Healthcare,Low,No,4,High,High,Occasional,2,No,Medium
+18-24,PhD,Other,Education,Low,No,2,Low,High,Regular,4,No,Medium
+18-24,PhD,Other,Manufacturing,High,No,3,Moderate,Medium,Regular,1,No,Medium
+45+,High School,Non-IT,Manufacturing,High,No,1,Moderate,Medium,Regular,2,Yes,High
+35-44,High School,Non-IT,Healthcare,Medium,No,1,High,Low,Occasional,4,Unsure,Low
+35-44,Undergraduate,IT,Manufacturing,Low,No,1,High,High,Occasional,1,Yes,High
+18-24,PhD,Freelancer,Marketing,Low,Yes,2,High,Low,None,3,No,High
+18-24,High School,Manager,Finance,High,No,2,High,Medium,Occasional,3,No,Low
+35-44,Postgraduate,Student,Tech,Low,Yes,1,High,High,Occasional,5,Unsure,Low
+35-44,Postgraduate,Freelancer,Education,Low,Yes,2,Moderate,High,Regular,2,Yes,Low
+45+,High School,Other,Education,Low,No,5,High,Medium,Occasional,3,No,Medium
+45+,High School,Non-IT,Healthcare,High,Yes,5,Low,Low,Regular,2,Unsure,High
+35-44,PhD,Freelancer,Education,Medium,No,2,Low,Low,Regular,3,Yes,Low
+45+,PhD,Manager,Marketing,Medium,Yes,1,Moderate,High,Occasional,5,Yes,High
+45+,Undergraduate,Other,Manufacturing,Low,No,2,Low,Medium,None,4,No,Medium
+25-34,PhD,Student,Marketing,Medium,Yes,2,Moderate,High,None,5,No,Medium
+45+,Postgraduate,Student,Healthcare,High,No,2,Moderate,Medium,Occasional,1,Yes,Low
+18-24,Postgraduate,Manager,Marketing,High,No,3,Low,Low,None,3,Yes,Low
+45+,High School,Manager,Manufacturing,Medium,No,5,High,Medium,Regular,1,No,High
+45+,PhD,Non-IT,Finance,Medium,No,4,Low,Low,Regular,1,Yes,Low
+35-44,Undergraduate,Student,Healthcare,Low,Yes,4,Low,Medium,Occasional,2,No,High
+18-24,Postgraduate,Other,Finance,Medium,No,3,Moderate,High,None,3,Yes,Low
+45+,Postgraduate,Freelancer,Tech,Low,Yes,2,Low,Low,None,1,No,High
+45+,Undergraduate,Other,Finance,Low,Yes,3,Moderate,High,Regular,4,Unsure,High
+25-34,Undergraduate,IT,Tech,High,Yes,3,High,High,Occasional,1,No,High
+45+,Postgraduate,IT,Tech,High,No,1,High,Low,None,4,No,High
+45+,Postgraduate,Manager,Finance,High,Yes,5,High,Low,Occasional,2,Unsure,Medium
+25-34,Undergraduate,Non-IT,Healthcare,High,Yes,4,Low,High,None,1,Yes,High
+35-44,Postgraduate,IT,Manufacturing,Medium,Yes,2,Moderate,High,Regular,5,Unsure,Low
+45+,High School,Student,Marketing,High,No,4,High,High,Regular,2,No,Medium
+25-34,High School,Other,Marketing,Medium,No,4,Moderate,High,Occasional,4,Yes,Medium
+18-24,Undergraduate,Other,Manufacturing,High,Yes,5,Moderate,Low,Regular,2,Unsure,High
+35-44,PhD,Manager,Tech,Medium,No,4,High,Low,None,1,Yes,Medium
+18-24,Undergraduate,Freelancer,Tech,Low,No,4,High,High,Regular,3,Yes,High
+18-24,Undergraduate,Manager,Healthcare,Medium,Yes,3,Moderate,Medium,Occasional,3,Unsure,Low
+25-34,PhD,Freelancer,Education,Medium,Yes,5,High,Medium,Occasional,4,Yes,High
+45+,PhD,Manager,Finance,High,No,1,Moderate,Low,Occasional,4,Unsure,Medium
+25-34,PhD,Manager,Tech,Medium,Yes,2,Moderate,High,None,3,No,Low
+25-34,High School,Manager,Marketing,Low,No,4,High,High,None,4,Yes,High
+25-34,Postgraduate,Freelancer,Healthcare,Low,No,2,Low,Low,None,2,No,Low
+25-34,High School,Freelancer,Finance,High,No,1,High,Medium,None,5,No,Low
+35-44,Postgraduate,Manager,Healthcare,Low,No,2,Low,Medium,None,5,Yes,Medium
+45+,High School,IT,Finance,Medium,No,1,Moderate,Medium,Regular,2,Unsure,Low
+18-24,Postgraduate,Non-IT,Finance,Low,No,3,Moderate,Low,None,5,Yes,Medium
+18-24,High School,Non-IT,Manufacturing,High,Yes,4,Low,Medium,None,1,No,Low
+45+,PhD,Non-IT,Tech,Medium,Yes,1,Moderate,Low,Regular,2,No,High
+18-24,Undergraduate,Freelancer,Healthcare,High,No,2,Low,Low,None,4,Unsure,Low
+45+,High School,Freelancer,Healthcare,Medium,No,4,Low,High,Occasional,2,Yes,High
+18-24,Postgraduate,IT,Manufacturing,Low,No,3,Moderate,Medium,None,3,No,High
+25-34,PhD,Non-IT,Marketing,High,Yes,4,Low,Low,None,4,No,Low
+18-24,High School,Non-IT,Marketing,High,No,1,High,Medium,Occasional,3,No,High
+45+,High School,Manager,Tech,Medium,Yes,3,High,Medium,Occasional,4,Unsure,Low
+45+,PhD,Freelancer,Tech,High,No,2,Moderate,High,Occasional,5,No,Low
+45+,High School,Non-IT,Education,Medium,No,3,Moderate,Medium,Occasional,2,No,High
+45+,Undergraduate,Other,Manufacturing,Medium,Yes,3,Low,High,None,1,Yes,High
+45+,High School,IT,Marketing,Medium,Yes,5,Low,Low,Occasional,4,Yes,Medium
+35-44,Undergraduate,Other,Finance,Medium,No,3,Low,Medium,Occasional,4,No,High
+35-44,Undergraduate,Other,Healthcare,Low,No,3,Low,Low,Regular,3,No,Medium
+18-24,PhD,IT,Tech,Medium,No,4,High,Medium,Occasional,5,Yes,High
+45+,High School,Other,Healthcare,High,Yes,2,High,Low,Occasional,3,Unsure,Low
+18-24,PhD,Non-IT,Healthcare,Low,Yes,4,Moderate,Medium,Regular,3,Unsure,High
+45+,High School,Freelancer,Education,High,Yes,4,Low,Medium,Regular,5,Unsure,Low
+45+,High School,IT,Marketing,Low,Yes,1,Low,Medium,None,1,Unsure,Low
+35-44,Postgraduate,Manager,Tech,Medium,Yes,4,Moderate,Medium,Regular,3,Unsure,Low
+35-44,High School,Other,Healthcare,Low,Yes,5,Low,Medium,None,3,Unsure,Medium
+25-34,PhD,IT,Tech,Low,No,5,Low,Medium,Regular,4,Unsure,High
+35-44,Undergraduate,Student,Finance,High,No,1,Low,Medium,Regular,5,Unsure,Low
+25-34,High School,Student,Education,High,Yes,2,Low,Medium,None,2,Yes,Low
+25-34,Postgraduate,Freelancer,Finance,Medium,No,2,Low,Medium,Regular,1,Unsure,Medium
+25-34,PhD,Non-IT,Tech,Low,No,4,Moderate,Low,None,1,Unsure,High
+25-34,High School,Freelancer,Tech,Low,Yes,4,Low,High,Regular,5,Unsure,High
+25-34,PhD,Freelancer,Marketing,Low,No,4,Moderate,Medium,Occasional,4,No,Medium
+18-24,Postgraduate,Freelancer,Healthcare,Medium,Yes,2,Low,High,Regular,4,Yes,Medium
+35-44,Postgraduate,Freelancer,Healthcare,Medium,Yes,3,High,Medium,None,5,Yes,High
+25-34,PhD,Manager,Finance,Medium,No,5,High,Medium,Regular,4,Yes,Medium
+45+,High School,Manager,Education,Medium,Yes,3,High,Low,None,1,Unsure,High
+35-44,Undergraduate,IT,Manufacturing,Medium,Yes,3,High,Low,None,1,Unsure,High
+35-44,Postgraduate,Student,Healthcare,High,Yes,2,Moderate,High,Occasional,2,No,Low
+25-34,High School,Freelancer,Marketing,Low,Yes,3,Moderate,Low,Occasional,5,Yes,Low
+18-24,High School,IT,Finance,Low,Yes,1,Low,Low,None,3,Unsure,High
+25-34,Undergraduate,Student,Finance,Low,Yes,4,High,High,Regular,3,Yes,High
+18-24,Postgraduate,Other,Manufacturing,Low,Yes,1,Moderate,Low,None,2,No,High
+45+,Postgraduate,Non-IT,Marketing,Low,Yes,5,Low,Medium,None,2,No,High
+35-44,High School,Manager,Education,Low,No,4,Low,High,Regular,4,No,High
+45+,High School,Other,Marketing,Low,No,3,Moderate,High,Regular,2,Yes,High
+18-24,Undergraduate,Student,Education,Low,No,5,High,Medium,Regular,2,Unsure,Medium
+18-24,Undergraduate,Other,Marketing,High,Yes,4,Low,Low,Regular,3,Unsure,High
+45+,Postgraduate,Non-IT,Marketing,Low,Yes,3,High,High,None,4,No,Medium
+18-24,PhD,Student,Tech,High,No,1,High,High,None,2,Unsure,Medium
+45+,Postgraduate,Other,Finance,Medium,No,4,High,Medium,Occasional,2,No,High
+35-44,High School,Manager,Marketing,Low,No,3,Low,Medium,None,4,Yes,High
+45+,Postgraduate,Manager,Manufacturing,Medium,Yes,1,High,Low,Regular,5,No,Medium
+35-44,PhD,IT,Marketing,Medium,No,5,Low,High,Occasional,4,Yes,Medium
+45+,Undergraduate,Other,Healthcare,Medium,No,5,High,Low,Regular,3,No,High
+18-24,PhD,Freelancer,Finance,High,Yes,5,Low,Low,None,5,Unsure,High
+45+,PhD,Other,Healthcare,Medium,No,5,High,Medium,Occasional,1,Unsure,Medium
+18-24,PhD,Student,Finance,Medium,Yes,2,Moderate,High,Regular,4,No,Medium
+45+,Undergraduate,Student,Healthcare,Medium,Yes,4,High,High,Occasional,3,Unsure,Medium
+45+,PhD,Other,Marketing,Low,Yes,4,High,High,Occasional,5,Unsure,Low
+25-34,PhD,Non-IT,Marketing,Low,No,2,Low,Medium,None,4,Unsure,Medium
+18-24,PhD,Manager,Tech,High,No,3,Low,Medium,Regular,2,Yes,Low
+25-34,High School,Student,Manufacturing,High,Yes,3,High,Medium,Occasional,4,Unsure,High
+18-24,PhD,Manager,Healthcare,Low,No,5,Moderate,Medium,Occasional,1,Yes,High
+25-34,Undergraduate,Student,Education,High,No,1,Moderate,Medium,Regular,4,No,Medium
+35-44,PhD,IT,Tech,Low,No,3,Low,High,Occasional,5,Unsure,High
+45+,PhD,Freelancer,Healthcare,Medium,No,1,Moderate,Low,Occasional,5,Unsure,High
+18-24,Undergraduate,Student,Healthcare,Medium,Yes,4,High,High,Occasional,4,Unsure,High
+18-24,PhD,Manager,Tech,High,No,1,Low,Low,Regular,5,No,High
+45+,Undergraduate,IT,Marketing,Low,Yes,4,High,Medium,Regular,2,Yes,Low
+18-24,PhD,Student,Healthcare,Low,Yes,2,Low,Low,Regular,4,Yes,Low
+18-24,Undergraduate,Non-IT,Marketing,High,No,2,Low,High,Regular,2,Unsure,Medium
+25-34,PhD,Freelancer,Tech,Low,Yes,5,Low,High,None,2,No,Medium
+18-24,PhD,Student,Marketing,Medium,No,3,Low,Low,Occasional,3,No,Medium
+35-44,High School,IT,Finance,High,No,5,Moderate,Medium,Regular,4,No,High
+35-44,High School,Non-IT,Education,High,Yes,4,High,Medium,Occasional,5,No,High
+45+,PhD,Other,Healthcare,Low,Yes,5,High,High,Occasional,2,No,Low
+18-24,PhD,IT,Manufacturing,High,Yes,1,High,Low,None,3,Yes,Low
+45+,Postgraduate,IT,Education,Low,Yes,4,Low,Medium,Regular,4,Yes,Medium
